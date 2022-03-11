@@ -1,0 +1,43 @@
+body{
+    background: url(https://www.wallpaperuse.com/wallp/17-177924_m.png);
+}
+
+.container-box {
+    background: rgb(0, 0, 0);
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 250px;
+    padding: 30px;
+    border-radius: 50px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.cr {
+    color: #fff;
+}
+
+button {
+    width: 50%;
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    padding: 12px 20px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.reg a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
